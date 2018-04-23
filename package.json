@@ -5,5 +5,8 @@
   "repository": "git@github.com:JungHanYoung/react_codelab_velopert_typescript.git",
   "author": "Hanyoung Jeong <8735132@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@types/axios": "^0.14.0"
+  }
 }
