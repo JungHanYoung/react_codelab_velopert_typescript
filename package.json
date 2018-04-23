@@ -1,0 +1,9 @@
+{
+  "name": "react_codelab_velopert_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JungHanYoung/react_codelab_velopert_typescript.git",
+  "author": "Hanyoung Jeong <8735132@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
